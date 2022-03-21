@@ -74,6 +74,7 @@
         <v-card-actions>
           <v-spacer />
           <v-btn color="primary" nuxt to="/inspire"> Continue </v-btn>
+          <v-btn color="success" nuxt to="/openTask"> OpenTask </v-btn>
         </v-card-actions>
       </v-card>
     </v-col>
