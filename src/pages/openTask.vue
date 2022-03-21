@@ -33,3 +33,16 @@
         </v-card>
     </div>
 </template>
+<script lang="ts">
+import Vue from 'vue'
+// import { OpenTask } from '../store/openTask'
+
+export default Vue.extend({
+
+    // computed:{
+    //     tasks(): object{
+    //         return $store.
+    //     }
+    // }
+})
+</script>
